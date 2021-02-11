@@ -1,0 +1,34 @@
+.elementor-1915 .elementor-element.elementor-element-8cb1f68:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-1915 .elementor-element.elementor-element-8cb1f68 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#25C2F7;background-image:url("http://webgarageband.com/telliax/wp-content/uploads/2021/02/Group-199.png");background-repeat:no-repeat;}.elementor-1915 .elementor-element.elementor-element-8cb1f68 > .elementor-element-populated, .elementor-1915 .elementor-element.elementor-element-8cb1f68 > .elementor-element-populated > .elementor-background-overlay, .elementor-1915 .elementor-element.elementor-element-8cb1f68 > .elementor-background-slideshow{border-radius:8px 0px 8px 0px;}.elementor-1915 .elementor-element.elementor-element-8cb1f68 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-1915 .elementor-element.elementor-element-8cb1f68 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1915 .elementor-element.elementor-element-a7c2f4a > .elementor-element-populated{padding:80px 80px 80px 80px;}.elementor-1915 .elementor-element.elementor-element-d9284c6 .elementor-heading-title{color:#000000;font-family:"Cera Pro", Sans-serif;font-size:48px;font-weight:500;line-height:1.12em;}.elementor-1915 .elementor-element.elementor-element-d9284c6 > .elementor-widget-container{margin:0px 0px 48px 0px;}#elementor-popup-modal-1915 .dialog-message{width:710px;height:auto;}#elementor-popup-modal-1915{justify-content:center;align-items:center;pointer-events:all;background-color:#1E232633;}#elementor-popup-modal-1915 .dialog-close-button{display:block;}#elementor-popup-modal-1915 .dialog-widget-content{border-radius:8px 8px 8px 8px;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}@media(min-width:768px){.elementor-1915 .elementor-element.elementor-element-8cb1f68{width:20.282%;}.elementor-1915 .elementor-element.elementor-element-a7c2f4a{width:79.718%;}}@media(max-width:1024px){.elementor-1915 .elementor-element.elementor-element-8cb1f68 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-1915 .elementor-element.elementor-element-a7c2f4a > .elementor-element-populated{padding:20px 20px 20px 20px;}.elementor-1915 .elementor-element.elementor-element-d9284c6 .elementor-heading-title{font-size:28px;}.elementor-1915 .elementor-element.elementor-element-d9284c6 > .elementor-widget-container{margin:0px 0px 20px 0px;}}@media(max-width:767px){.elementor-1915 .elementor-element.elementor-element-a7c2f4a > .elementor-element-populated{padding:10px 10px 10px 10px;}.elementor-1915 .elementor-element.elementor-element-d9284c6{text-align:center;}.elementor-1915 .elementor-element.elementor-element-d9284c6 .elementor-heading-title{font-size:21px;}#elementor-popup-modal-1915 .dialog-message{width:93vw;}#elementor-popup-modal-1915{justify-content:center;}}/* Start custom CSS for shortcode, class: .elementor-element-e65df15 */.popup-form label > span, .popup-form input{
+    font-family: Cera Pro;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+color: #26333A;
+margin-bottom: 14px;
+display: inline-block
+}
+.popup-form input{
+    background: #F8F8F8;
+border-radius: 16px;
+padding: 24px!important;
+border-color: transparent;
+margin-bottom: 40px;
+}
+.popup-form input::placeholder{
+    color: #AFAFAF;
+}
+.popup-form .wpcf7-submit{
+    margin-bottom: 0;
+    background: linear-gradient(98.58deg, #C2FF8F -30.16%, #7DBC49 56.55%), #7DBC49;
+border-radius: 100px;
+color: #fff;
+}
+
+@media screen and (max-width: 767px){
+    .popup-form input{
+        margin-bottom: 15px;
+    }
+    .popup-form input{
+        padding: 17px!important;
+    }
+}/* End custom CSS */
